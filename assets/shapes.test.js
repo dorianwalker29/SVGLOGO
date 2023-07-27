@@ -1,4 +1,4 @@
-const generateSVG = require('./generateSVG.js');
+const generateSVG = require('../assets/generateSVG.js');
 
 describe('generateSVG', () => {
   it('should throw an error if the number of characters is greater than 3', () => {

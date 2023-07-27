@@ -1,0 +1,33 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "svg logo maker",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorianwalker29/SVGLOGO.git"
+  },
+  "keywords": [
+    "svg",
+    "logo",
+    "maker"
+  ],
+  "author": "Dorian Walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorianwalker29/SVGLOGO/issues"
+  },
+  "homepage": "https://github.com/dorianwalker29/SVGLOGO#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
