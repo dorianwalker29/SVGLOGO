@@ -1,10 +1,10 @@
 // Node packages to run application
-const inquirer = import("inquirer");
+const inquirer = require('inquirer');
 // Node packages to create file
 const fs = require("fs");
 const path =require("path");
 // module imported to generate svg
-const generateSVG = require('../assets/generateSVG.js');
+const generateSVG = require('./assets/generateSVG.js');
 
 // Array of questions for user input
 const questions = [

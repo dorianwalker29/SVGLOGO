@@ -1,0 +1,5 @@
+
+      <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <g><circle cx="150" cy="100" r="82" fill="circle"/></g>
+        <text x="150" y="125" fill="yellow" font-size="50" text-anchor="middle">aBc</text>
+      </svg>
